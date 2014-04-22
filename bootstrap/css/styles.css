@@ -1,0 +1,90 @@
+.page-header {
+	margin-top: 0;
+	margin-left: 0;
+}
+.panel-body {
+	padding-top: 0;
+	padding-left: 0;
+	padding-right: 0;
+}
+
+ 
+ /*
+-----------------------------------------------------------
+            Navbar testowy #428bca
+-----------------------------------------------------------
+
+*/
+
+
+.navbar-moj
+{
+    background-color: #428bca;
+    background-image: none;
+    color: #FFFFFF;
+	
+    font-family: 'MenuFont';
+}
+
+.navbar-moj .navbar-brand {
+    color: #ffffff;
+	padding-bottom:0;
+}
+.navbar-moj .navbar-nav > li > a {
+    color: #ffffff;
+}
+.navbar-moj .navbar-nav > li > a:hover,
+.navbar-moj .navbar-nav > li > a:focus {
+    color: #428bca;
+	background: #ffffff;
+}
+.navbar-moj .navbar-nav > .active  {
+    color: #ffffff;
+    background: #300abc;
+}
+.navbar-moj .navbar-nav > .open > a, 
+.navbar-moj .navbar-nav > .open > a:hover, 
+.navbar-moj .navbar-nav > .open > a:focus {
+    color: #ffffff;
+    background: #426bca;
+	border-color: #425bca;
+}
+.navbar-moj .navbar-nav > .dropdown > a .caret {
+    border-top-color: #ffffff;
+    border-bottom-color: #ffffff;
+}
+.navbar-moj .navbar-nav > .dropdown > a:hover .caret,
+.navbar-moj .navbar-nav > .dropdown > a:focus .caret {
+    border-top-color: #8a0e0b;
+    border-bottom-color: #8a0e0b;
+}
+.navbar-moj .navbar-nav > .open > a .caret, 
+.navbar-moj .navbar-nav > .open > a:hover .caret, 
+.navbar-moj .navbar-nav > .open > a:focus .caret {
+    border-top-color: #ffffff;
+    border-bottom-color: #ffffff;
+}
+.navbar-moj .navbar-toggle {
+    border-color: #d65c14;
+}
+.navbar-moj .navbar-toggle:hover,
+.navbar-moj .navbar-toggle:focus {
+    background-color: #d65c14;
+}
+.navbar-moj .navbar-toggle .icon-bar {
+    background-color: #ffffff;
+}
+.navbar-moj .navbar-nav > .active  {
+    
+}
+.navbar-moj .navbar-nav > .active{
+      color: #425bca;
+    background: #d65c14;
+  }
+  .navbar-moj .navbar-nav > .active > a, 
+  .navbar-moj .navbar-nav > .active > a:hover, 
+  .navbar-moj .navbar-nav > .active > a:focus {
+          color: #425bca;
+    background: #d65c14;
+   }
+

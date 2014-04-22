@@ -1,0 +1,6 @@
+							<div class="btn-group">
+								<button type="button" class="btn btn-primary btn-lg"><span class = "glyphicon glyphicon-plus"</span></button>
+								<button type="button" class="btn btn-primary btn-lg"><span class = "glyphicon glyphicon-transfer"</span></button>
+								<button type="button" class="btn btn-primary btn-lg">Osoba</button>
+								<button type="button" class="btn btn-primary btn-lg">Sprzet</button>
+							</div>	
